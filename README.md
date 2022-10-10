@@ -8,6 +8,6 @@ This project creates sample JSON data files with the required `ID` field to inge
 - Open in IDE of choice
 - Run the code
     - Enter number of student records to be created: `100`
-    - Enter the full path of the output directory:  `C:\Users\\{alias}\Documents\json-data-ouput`
+    - Enter the full path of the output directory:  `C:\Users\{alias}\Documents\json-data-ouput`
 
 
